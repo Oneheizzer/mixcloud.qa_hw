@@ -66,7 +66,6 @@ public class LoginSteps {
     public void user_enter_a_valid_author() throws Throwable {
         Thread.sleep(5000);
         driver.findElement(By.xpath("//*[@id=\"react-root\"]/div/section/div[4]/div/div/div[1]/div/div/section/div[1]/div[2]/div[2]/section/div/ul/li[1]/span/b/span[1]/a")).click();
-        driver.
     }
 
 

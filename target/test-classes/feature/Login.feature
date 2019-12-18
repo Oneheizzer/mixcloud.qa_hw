@@ -20,5 +20,5 @@ Feature: Login into Mixcloud website
 
 
     Examples:
-      |     username            |   password   |   author  |
-      |  oneheizzer.qa@gmail.com |   41177232u  |   Martin Garrix  |
+      |     username            |   password   |
+      |  oneheizzer.qa@gmail.com |   41177232u  |

@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc742079-388c-4c81-a624-0f1a33fe23da" name="Default Changelist" comment="" />
+    <list default="true" id="dc742079-388c-4c81-a624-0f1a33fe23da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/mixcloud/cucumber/steps/LoginSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/mixcloud/cucumber/steps/LoginSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/216e8732b321d0c78444ca8faf810c4a60ffa7d700af58d3645a30623020cb2d.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/216e8732b321d0c78444ca8faf810c4a60ffa7d700af58d3645a30623020cb2d.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/216e8732b321d0c78444ca8faf810c4a60ffa7d700af58d3645a30623020cb2d.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/216e8732b321d0c78444ca8faf810c4a60ffa7d700af58d3645a30623020cb2d.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/216e8732b321d0c78444ca8faf810c4a60ffa7d700af58d3645a30623020cb2d_screenshots.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/216e8732b321d0c78444ca8faf810c4a60ffa7d700af58d3645a30623020cb2d_screenshots.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-216e8732b321d0c78444ca8faf810c4a60ffa7d700af58d3645a30623020cb2d.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-216e8732b321d0c78444ca8faf810c4a60ffa7d700af58d3645a30623020cb2d.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/feature/Login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/feature/Login.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/mixcloud/cucumber/steps/LoginSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/mixcloud/cucumber/steps/LoginSteps.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +25,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Uh0KrtSIwvOth1jFP8lopU6lIP" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,6 +36,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -123,26 +139,30 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="433" y="171" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1575795001305" />
-    <state x="359" y="294" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1575798149866">
+    <state x="359" y="294" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1576673835588">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="359" y="294" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.738@0.0.1366.738" timestamp="1575798149866" />
-    <state width="1323" height="155" key="GridCell.Tab.0.bottom" timestamp="1575927251867">
+    <state x="359" y="294" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.738@0.0.1366.738" timestamp="1576673835588" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1576676710054">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="155" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1575927251867" />
-    <state width="1323" height="155" key="GridCell.Tab.0.center" timestamp="1575927251867">
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1576676710054" />
+    <state width="1323" height="155" key="GridCell.Tab.0.bottom" timestamp="1576678250779">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="155" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1575927251867" />
-    <state width="1323" height="155" key="GridCell.Tab.0.left" timestamp="1575927251867">
+    <state width="1323" height="155" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1576678250779" />
+    <state width="1323" height="155" key="GridCell.Tab.0.center" timestamp="1576678250778">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="155" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1575927251867" />
-    <state width="1323" height="155" key="GridCell.Tab.0.right" timestamp="1575927251867">
+    <state width="1323" height="155" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1576678250778" />
+    <state width="1323" height="155" key="GridCell.Tab.0.left" timestamp="1576678250778">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="155" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1575927251867" />
+    <state width="1323" height="155" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1576678250778" />
+    <state width="1323" height="155" key="GridCell.Tab.0.right" timestamp="1576678250779">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="155" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1576678250779" />
     <state x="184" y="11" key="SettingsEditor" timestamp="1575796001337">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
